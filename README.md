@@ -1,6 +1,6 @@
 # 🍔 Burger Website
 
-A **responsive static website** for a burger shop, designed for an engaging user experience on mobile and desktop devices. Built using **HTML, CSS, and media queries** for responsiveness.  
+A **responsive static website** for a burger shop, designed for an engaging user experience on mobile and desktop devices. 
 
 ## ✨ Features  
 
