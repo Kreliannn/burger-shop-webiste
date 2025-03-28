@@ -8,10 +8,13 @@ A **responsive static website** for a burger shop, designed for an engaging user
 - 🎨 **Modern Design** – Clean and attractive UI for a great user experience.  
 - 📍 **About & Location Section** – Provides shop details and contact info.  
 - 📋 **Menu Showcase** – Displays available burgers with descriptions.  
-- 📞 **Contact Section** – Easy way for customers to get in touch.  
+- 📞 **Contact Section** – Easy way for customers to get in touch.
 
-## 🌍 Live Demo  
-🔗 [Visit the Website](https://www.tiktok.com/@krelq/video/7429193010459462919) <!-- Replace with actual link -->
+## 🎥 Demo Video  
+🔗 [watch on tiktok](https://www.tiktok.com/@krelq/video/7429193010459462919) <!-- Replace with actual link -->
+
+
+
 
 ## 📸 Preview  
 ![Image](https://github.com/user-attachments/assets/dc5979f8-9186-4e5b-aa77-fbdac347cdb0)
